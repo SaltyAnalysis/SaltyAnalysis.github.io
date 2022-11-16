@@ -1,6 +1,9 @@
 /* comments */
 
-body{}
+body{
+	color: #525E6A;
+	background-color: rgb(238,238,238);
+}
 h1{}
 
 /*media queries*/

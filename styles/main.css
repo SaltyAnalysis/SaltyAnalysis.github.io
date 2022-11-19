@@ -10,10 +10,15 @@ body{
 h1{
 	color: #525E6A;
 }
-#disclaimer-section{
+.ad-container{
 	margin: auto;
 	width: 50%;
 	border: 3px solid #525E6A;
+	padding: 10px;
+}
+#disclaimer-section{
+	margin: auto;
+	width: 50%;
 	padding: 10px;
 }
 

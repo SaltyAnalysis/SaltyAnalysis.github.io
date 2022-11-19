@@ -10,6 +10,12 @@ body{
 h1{
 	color: #525E6A;
 }
+#disclaimer-section{
+	margin: auto;
+	width: 50%;
+	border: 3px solid #525E6A;
+	padding: 10px;
+}
 
 /*media queries*/
 @media screen and (max-width:299px){}

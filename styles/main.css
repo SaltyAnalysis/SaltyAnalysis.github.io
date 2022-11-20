@@ -10,6 +10,9 @@ body{
 h1{
 	color: #525E6A;
 }
+h1 a{
+	color: inherit;
+}
 h1 a:hover, a:visited, a:link, a:active{
 	text-decoration: none;
 }

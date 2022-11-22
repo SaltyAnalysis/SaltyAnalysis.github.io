@@ -37,6 +37,7 @@ h1 a:hover, h1 a:visited, h1 a:link, h1 a:active{
 @media screen and (min-width: 1101px){}
 
 /*dark mode - if browser is set to dark mode*/
+/*
 @media (prefers-color-scheme: dark) {
 	section{
     	background-color: #222;
@@ -44,3 +45,4 @@ h1 a:hover, h1 a:visited, h1 a:link, h1 a:active{
 		word-spacing: .1em;
     }
 }
+*/

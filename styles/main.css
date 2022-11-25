@@ -18,13 +18,13 @@ h1 a:hover, h1 a:visited, h1 a:link, h1 a:active{
 }
 .ad-container{
 	margin: auto;
-	width: 50%;
+	/*width: 50%;*/
 	border: 3px solid #525E6A;
 	padding: 10px;
 }
 #disclaimer-section{
 	margin: auto;
-	width: 50%;
+	width: 75%;
 	padding: 10px;
 }
 

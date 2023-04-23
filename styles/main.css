@@ -33,55 +33,55 @@ h1 a:hover, h1 a:visited, h1 a:link, h1 a:active{
 	div.affiliate-link-container{
 		width: 100px;
 	}
-	a.ad-anchor img{
+	/*a.ad-anchor img{
 		width:100%;
-		/*max-width:100%;*/
-	}
+		max-width:100%;
+	}*/
 }
 @media screen and (min-width:300px) and (max-width:324px){
 	div.affiliate-link-container{
 		width: 250px;
 	}
-	a.ad-anchor img{
+	/*a.ad-anchor img{
 		width:100%;
-		/*max-width:100%;*/
-	}
+		max-width:100%;
+	}*/
 }
 @media screen and (min-width:325px) and (max-width:450px){
 	div.affiliate-link-container{
 		width: 250px;
 	}
-	a.ad-anchor img{
+	/*a.ad-anchor img{
 		width:100%;
-		/*max-width:100%;*/
-	}
+		max-width:100%;
+	}*/
 }
 @media screen and (min-width:451px) and (max-width:650px){
 	div.affiliate-link-container{
 		width: 250px;
 	}
-	a.ad-anchor img{
+	/*a.ad-anchor img{
 		width:100%;
-		/*max-width:100%;*/
-	}
+		max-width:100%;
+	}*/
 }
 @media screen and (min-width:651px) and (max-width:1100px){
 	div.affiliate-link-container{
 		width: 250px;
 	}
-	a.ad-anchor img{
+	/*a.ad-anchor img{
 		width:100%;
-		/*max-width:100%;*/
-	}
+		max-width:100%;
+	}*/
 }
 @media screen and (min-width: 1101px){
 	div.affiliate-link-container{
 		width: 250px;
 	}
-	a.ad-anchor img{
+	/*a.ad-anchor img{
 		width:100%;
-		/*max-width:100%;*/
-	}
+		max-width:100%;
+	}*/
 }
 
 /*dark mode - if browser is set to dark mode*/
